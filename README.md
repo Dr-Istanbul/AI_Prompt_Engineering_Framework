@@ -25,7 +25,6 @@
 Raw AI Models → [MISSING LAYER] → Business Applications
 LLMs, GPT, Claude → Prompt Engineering Framework → Real-World Solutions
 
-text
 
 **This project is that missing layer.**
 
