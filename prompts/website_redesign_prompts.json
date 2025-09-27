@@ -1,0 +1,11 @@
+{
+  "basic_redesign": {
+    "template": "Redesign this {industry} website: {url}. Focus on {improvements}. Use {style} aesthetic. Ensure {technical} requirements.",
+    "example": "Redesign this insurance website: example.com. Focus on mobile responsiveness and trust signals. Use modern, clean aesthetic. Ensure fast loading and SEO-friendly structure."
+  },
+  "industry_specific": {
+    "insurance": "Create a trustworthy, professional design that emphasizes security and reliability. Use blues and neutral colors. Include clear call-to-action for quotes.",
+    "restaurant": "Warm, inviting design with high-quality food photography. Easy reservation system. Mobile-optimized menu.",
+    "consulting": "Corporate, professional design that establishes expertise. Case studies and testimonial integration."
+  }
+}

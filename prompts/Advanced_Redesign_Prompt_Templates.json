@@ -1,0 +1,51 @@
+{
+  "professional_redesign_framework": {
+    "discovery_phase": {
+      "template": "ACT as a {role} with {experience} specializing in {industry}. Analyze {website_url} and identify: 1) {analysis_point_1}, 2) {analysis_point_2}, 3) {analysis_point_3}. Deliver {format} with {specific_requirements}.",
+      "variables": {
+        "role": "Senior UX Analyst",
+        "experience": "10+ years",
+        "industry": "specific industry",
+        "analysis_points": ["usability issues", "conversion barriers", "technical deficiencies"],
+        "format": "comprehensive audit report",
+        "requirements": "actionable recommendations with priority scoring"
+      }
+    },
+    "strategic_planning": {
+      "template": "ACT as {role}. Develop a {timeframe} redesign strategy for {business_type} addressing {key_challenges}. Include {strategy_components} with {success_metrics}.",
+      "variables": {
+        "role": "Digital Strategy Director", 
+        "timeframe": "90-day",
+        "business_type": "B2B service company",
+        "key_challenges": ["mobile experience", "lead generation", "brand perception"],
+        "strategy_components": ["phased implementation", "resource allocation", "risk mitigation"],
+        "success_metrics": ["KPIs", "ROI calculations", "timeline milestones"]
+      }
+    },
+    "design_execution": {
+      "template": "ACT as {role}. Create {deliverable_type} for {project_scope} using {design_principles}. Ensure {technical_requirements} and {user_experience_standards}.",
+      "variables": {
+        "role": "Lead UI/UX Designer",
+        "deliverable_type": "high-fidelity mockups", 
+        "project_scope": "complete website redesign",
+        "design_principles": ["mobile-first", "conversion-focused", "accessibility-compliant"],
+        "technical_requirements": ["performance benchmarks", "browser compatibility", "SEO optimization"],
+        "user_experience_standards": ["intuitive navigation", "clear information hierarchy", "seamless interactions"]
+      }
+    }
+  },
+  "industry_specialization": {
+    "ecommerce": {
+      "focus_areas": ["conversion rate optimization", "product discovery", "checkout flow", "mobile shopping"],
+      "key_metrics": ["add-to-cart rate", "checkout completion", "average order value", "mobile conversion rate"]
+    },
+    "professional_services": {
+      "focus_areas": ["trust signals", "expertise demonstration", "lead qualification", "client communication"],
+      "key_metrics": ["contact form submissions", "consultation bookings", "proposal requests", "client acquisition cost"]
+    },
+    "local_business": {
+      "focus_areas": ["local SEO", "mobile usability", "direction integration", "review management"], 
+      "key_metrics": ["map views", "click-to-call", "direction requests", "local search ranking"]
+    }
+  }
+}
